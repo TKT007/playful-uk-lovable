@@ -14,7 +14,7 @@ export const FinalSteps = ({ onComplete }: FinalStepsProps) => {
 
   const descriptions = [
     "Click the button below",
-    "Earn up to $200-$500/day", 
+    "Earn up to £200-£500/day", 
     "They reimburse you for anything you spend!"
   ];
 
